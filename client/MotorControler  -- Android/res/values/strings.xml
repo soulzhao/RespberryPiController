@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">电机控制器</string>
+    <string name="title_section2">程序配置</string>
+    <string name="title_section1">电机控制</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_host_port_lbl">端口号：</string>
+    <string name="app_host_ipaddr_lbl">服务器地址：</string>
+    <string name="app_settings_connect_btn">连接</string>
+    <string name="app_settings_disconnect_btn">断开</string>
+    <string name="app_control_enable_lbl">使能：</string>
+    <string name="app_control_frequency_lbl">频率：</string>
+    <string name="app_control_direction_lbl">方向：</string>
+    <string name="app_control_ok_btn">确定</string>
+    <string name="app_control_cancel_btn">取消</string>
+    <string-array name="app_control_dirs_set">
+        <item name="app_control_dirs_f">顺时针</item>
+        <item name="app_control_dirs_r">逆时针</item>
+    </string-array>
+    <string name="app_setting_msg_connect_success">连接成功！</string>
+    <string name="app_setting_msg_connect_fail">连接失败！</string>
+    <string name="app_control_msg_not_connected">尚未连接电机！</string>
+    <string name="app_control_msg_change_sucess">电机状态更改成功！</string>    
+    <string name="app_control_msg_change_fail">电机状态更改失败！</string>    
+    <string name="app_setting_params_not_set_correct">参数配置不正确！</string>
+    <string name="app_control_params_not_set_correct">参数配置不正确！</string>
+    <string name="app_control_frqn_range_error">电机频率需在10~1000HZ之间！</string>
+    <string name="app_control_dir_set_error">电机转动方向设置不正确！</string>
+    <string name="app_exit">再按一下返回键退出程序</string>
+</resources>

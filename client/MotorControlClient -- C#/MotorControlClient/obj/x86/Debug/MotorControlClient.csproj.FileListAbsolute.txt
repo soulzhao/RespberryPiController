@@ -1,0 +1,9 @@
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\bin\Debug\MotorControlClient.exe
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\bin\Debug\MotorControlClient.pdb
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\MotorControlClient.MotorControlMainForm.resources
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\MotorControlClient.Properties.Resources.resources
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\MotorControlClient.exe
+C:\Users\Soul\Desktop\MotorControlClient\MotorControlClient\obj\x86\Debug\MotorControlClient.pdb
